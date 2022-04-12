@@ -1,1 +1,1 @@
-# Cosine-similarity-matrix-biological-text-data
+# Cosine similarity matrix computation on a randomly selected publications
